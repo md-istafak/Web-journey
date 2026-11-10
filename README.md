@@ -16,7 +16,7 @@ Welcome to my daily learning log! I have committed to coding **10+ hours every s
 ### 🛠️ Phase 1: Core Web Development (Sigma Course)
 - **Day 1:** Setup VS Code, learnt basic HTML tags (`<h1>`, `<p>`, `<a>`).
 - **Day 2:** Working with HTML Forms, Tables, and Media tags.
-- **Day 3:** *[यहाँ अपना रोज़ का अपडेट लिखते जाओ]*
+- **Day 3:** *[image lists tables*
 
 ---
 
