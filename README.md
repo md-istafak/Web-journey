@@ -1,25 +1,13 @@
 # 🚀 My Full Stack + AI Developer Journey
 
-This repository is my learning log and practice workspace for becoming a full-stack developer with AI integrations.
-
-I am building consistency through daily practice and documenting my progress in HTML, CSS, JavaScript, React, backend development, and AI tools.
+Welcome to my daily learning log! I have committed to coding **10+ hours every single day** to master Full Stack Web Development and AI Integration within a year. 
 
 ## 🎯 Current Focus
 - [x] HTML5 & CSS3 Basics
 - [ ] JavaScript (ES6+)
 - [ ] React.js & Next.js
 - [ ] Node.js & MongoDB (Backend)
-- [ ] Python & AI API Integration
-
----
-
-## 📁 Repository Overview
-This project contains hands-on exercises and mini projects covering:
-- HTML structure and semantic tags
-- CSS styling and layout
-- SEO and web essentials
-- Images, lists, tables, and media elements
-- Basic front-end development practice
+- [ ] Python & AI APIs Integration
 
 ---
 
@@ -38,5 +26,4 @@ This project contains hands-on exercises and mini projects covering:
 - **Tools:** VS Code, Git, GitHub
 
 ---
-
-*Follow my journey as I build in public and keep improving every day.*
+*Follow my journey as I build in public! Feel free to check out my repositories.*
